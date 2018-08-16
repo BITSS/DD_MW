@@ -1,7 +1,6 @@
 ---
-title: Dynamic Documention for "The Effects of a Minimum-Wage Increase on Employment
-  and Family Income"
-author: "Download/Modify/Contribute the analysis [here](https://github.com/fhoces/dd_mw)"
+title: Another Minimum Wage Report From A Different Think Tank
+author: "Download/Modify/Contribute the analysis [here](https://github.com/BITSS/dd_mw)"
 date: '`r paste("Last edit:", Sys.Date(), sep=" ")`'
 output:
   html_document:
